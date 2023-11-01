@@ -1,0 +1,10 @@
+.elemento{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 5px solid rgb(72, 0, 0);
+    border-radius: 3px;
+}
+.example{
+    
+}
