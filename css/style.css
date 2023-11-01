@@ -1,4 +1,11 @@
-h1{
-    margin-right: 100px;
-   text-align: right;
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+example{
+    
+}
+img{
+    width: 300px;
+    border: 10px solid black;
+    border-radius: 8px;
 }
