@@ -1,11 +1,17 @@
-body{
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+.date-container {
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    align-items: center;
 }
-example{
-    box-sizing: border-box;
+h1{
+    font-size: 40px;
 }
-img{
-    width: 300px;
-    border: 10px solid black;
-    border-radius: 8px;
+
+#line-bar{
+    width: auto;
+    background-color: green;
+    height: 20px;
 }
+   
